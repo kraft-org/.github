@@ -7,4 +7,4 @@ Welcome to Kraft, a collaborative organization that embraces open-source project
 ## Projects
 Explore our innovative projects:
 
-* [PROJECT](): Revolutionizing [specific industry/technology].
+* [PROJECT](): Revolutionizing [specific industry/technology]. - COMING SOON
